@@ -1,2 +1,2 @@
 # flappy_bird
-A simplified version of the previoiusly popular game "Flappy Bird" created with Processing.
+A simplified version of the previously popular game "Flappy Bird". Created to with Processing.
